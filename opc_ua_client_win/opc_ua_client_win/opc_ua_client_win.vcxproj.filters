@@ -13,12 +13,24 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="CJson">
+      <UniqueIdentifier>{89d24e45-9898-4246-ba51-813922ed4755}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
       <Filter>標頭檔</Filter>
     </ClInclude>
-    <ClInclude Include="open62541.h">
+    <ClInclude Include="CJson\cJSON.h">
+      <Filter>CJson</Filter>
+    </ClInclude>
+    <ClInclude Include="CJson\cJSON_Utils.h">
+      <Filter>CJson</Filter>
+    </ClInclude>
+    <ClInclude Include="node.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="OpcuaExporter.h">
       <Filter>標頭檔</Filter>
     </ClInclude>
   </ItemGroup>
@@ -27,6 +39,15 @@
       <Filter>來源檔案</Filter>
     </ClCompile>
     <ClCompile Include="opc_ua_client_win.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="CJson\cJSON.c">
+      <Filter>CJson</Filter>
+    </ClCompile>
+    <ClCompile Include="CJson\cJSON_Utils.c">
+      <Filter>CJson</Filter>
+    </ClCompile>
+    <ClCompile Include="node.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
   </ItemGroup>
