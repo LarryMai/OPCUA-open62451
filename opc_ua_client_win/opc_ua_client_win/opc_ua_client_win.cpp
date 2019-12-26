@@ -11,7 +11,7 @@
 
 
 using namespace std;
-#define TRACE_DEBUG 
+#define TRACE_DEBUG printf_s
 
 bool gRun = false;
 

@@ -1,0 +1,2173 @@
+{
+	"nameSpaces":	["dummy1", "dummy2", "dummy3", "urn:VICTOR_OR_V8800:Application"],
+	"nodeIds":	[{
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2626,
+			"displayName":	"連線狀態",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2637,
+			"displayName":	"機台運轉模式               ",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2648,
+			"displayName":	"馬達                       ",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2659,
+			"displayName":	"電熱                       ",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2670,
+			"displayName":	"LOCK",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2681,
+			"displayName":	"機台狀態",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2692,
+			"displayName":	"射嘴1溫度加熱值               ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2703,
+			"displayName":	"射嘴2溫度加熱值               ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2714,
+			"displayName":	"第1段溫度加熱值               ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2725,
+			"displayName":	"第2段溫度加熱值               ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2736,
+			"displayName":	"第3段溫度加熱值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2747,
+			"displayName":	"第4段溫度加熱值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2758,
+			"displayName":	"第5段溫度加熱值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2769,
+			"displayName":	"第6段溫度加熱值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2780,
+			"displayName":	"第7段溫度加熱值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2791,
+			"displayName":	"第8段溫度加熱值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2802,
+			"displayName":	"射嘴1溫度現在值             ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2813,
+			"displayName":	"射嘴2溫度現在值            ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2824,
+			"displayName":	"第1段溫度現在值       ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2835,
+			"displayName":	"第2段溫度現在值            ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2846,
+			"displayName":	"第3段溫度現在值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2857,
+			"displayName":	"第4段溫度現在值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2868,
+			"displayName":	"第5段溫度現在值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2879,
+			"displayName":	"第6段溫度現在值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2890,
+			"displayName":	"第7段溫度現在值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2901,
+			"displayName":	"第8段溫度現在值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2912,
+			"displayName":	"入料口現在值            ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2923,
+			"displayName":	"目前油溫           ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2934,
+			"displayName":	"關模段數                   ",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2945,
+			"displayName":	"低壓保護設定值                  ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2956,
+			"displayName":	"低壓保護目前值                  ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2967,
+			"displayName":	"機台鎖模力                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2978,
+			"displayName":	"關模一速度                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	2989,
+			"displayName":	"關模二速度                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3000,
+			"displayName":	"關模三速度                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3011,
+			"displayName":	"關模低壓速度               ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3022,
+			"displayName":	"關模高壓速度               ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3033,
+			"displayName":	"關模一壓力                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3044,
+			"displayName":	"關模二壓力                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3055,
+			"displayName":	"關模三壓力                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3066,
+			"displayName":	"關模低壓壓力               ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3077,
+			"displayName":	"關模高壓壓力               ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3088,
+			"displayName":	"關模一位置                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3099,
+			"displayName":	"關模二位置                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3110,
+			"displayName":	"關模三位置                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3121,
+			"displayName":	"關模低壓位置               ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3132,
+			"displayName":	"關模高壓位置               ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3143,
+			"displayName":	"開模段數                   ",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3154,
+			"displayName":	"開模結束速度               ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3165,
+			"displayName":	"開模三速度                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3176,
+			"displayName":	"開模二速度                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3187,
+			"displayName":	"開模一速度                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3198,
+			"displayName":	"開模啟始速度               ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3209,
+			"displayName":	"開模結束壓力               ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3220,
+			"displayName":	"開模三壓力                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3231,
+			"displayName":	"開模二壓力                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3242,
+			"displayName":	"開模一壓力                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3253,
+			"displayName":	"開模啟始壓力               ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3264,
+			"displayName":	"開模結束位置               ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3275,
+			"displayName":	"開模三位置                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3286,
+			"displayName":	"開模二位置                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3297,
+			"displayName":	"開模一位置                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3308,
+			"displayName":	"開模啟始位置               ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3319,
+			"displayName":	"頂針模式                   ",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3330,
+			"displayName":	"頂退段數                   ",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3341,
+			"displayName":	"頂退結束速度               ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3352,
+			"displayName":	"頂退二速度                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3363,
+			"displayName":	"頂退一速度                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3374,
+			"displayName":	"頂退結束壓力               ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3385,
+			"displayName":	"頂退二壓力                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3396,
+			"displayName":	"頂退一壓力                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3407,
+			"displayName":	"頂退結束位置               ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3418,
+			"displayName":	"頂退二位置                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3429,
+			"displayName":	"頂退一位置                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3440,
+			"displayName":	"頂進結束速度               ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3451,
+			"displayName":	"頂進一速度                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3462,
+			"displayName":	"頂進二速度                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3473,
+			"displayName":	"頂進結束壓力               ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3484,
+			"displayName":	"頂進一壓力                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3495,
+			"displayName":	"頂進二壓力                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3506,
+			"displayName":	"頂進結束位置               ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3517,
+			"displayName":	"頂進一位置                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3528,
+			"displayName":	"頂進二位置                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3539,
+			"displayName":	"切保壓速度                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3550,
+			"displayName":	"射膠五速度                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3561,
+			"displayName":	"射膠四速度                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3572,
+			"displayName":	"射膠三速度                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3583,
+			"displayName":	"射膠二速度                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3594,
+			"displayName":	"射膠一速度                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3605,
+			"displayName":	"切保壓壓力                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3616,
+			"displayName":	"射膠五壓力                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3627,
+			"displayName":	"射膠四壓力                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3638,
+			"displayName":	"射膠三壓力                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3649,
+			"displayName":	"射膠二壓力                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3660,
+			"displayName":	"射膠一壓力                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3671,
+			"displayName":	"切保壓位置                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3682,
+			"displayName":	"射膠五位置                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3693,
+			"displayName":	"射膠四位置                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3704,
+			"displayName":	"射膠三位置                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3715,
+			"displayName":	"射膠二位置                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3726,
+			"displayName":	"射膠一位置                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3737,
+			"displayName":	"切保壓動作時間",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3748,
+			"displayName":	"射膠五動作時間",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3759,
+			"displayName":	"射膠四動作時間              ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3770,
+			"displayName":	"射膠三動作時間             ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3781,
+			"displayName":	"射膠二動作時間             ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3792,
+			"displayName":	"射膠一動作時間             ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3803,
+			"displayName":	"保壓段數                ",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3814,
+			"displayName":	"射膠切保壓                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3825,
+			"displayName":	"射膠時間                   ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3836,
+			"displayName":	"射膠保護時間               ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3847,
+			"displayName":	"冷卻時間                   ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3858,
+			"displayName":	"保壓完速度                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3869,
+			"displayName":	"保壓四速度                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3880,
+			"displayName":	"保壓三速度                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3891,
+			"displayName":	"保壓二速度                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3902,
+			"displayName":	"保壓一速度                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3913,
+			"displayName":	"保壓完壓力                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3924,
+			"displayName":	"保壓四壓力                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3935,
+			"displayName":	"保壓三壓力                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3946,
+			"displayName":	"保壓二壓力                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3957,
+			"displayName":	"保壓一壓力                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3968,
+			"displayName":	"保壓完時間                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3979,
+			"displayName":	"保壓四時間                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	3990,
+			"displayName":	"保壓三時間                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4001,
+			"displayName":	"保壓二時間                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4012,
+			"displayName":	"保壓一時間                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4023,
+			"displayName":	"加料保護時間               ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4034,
+			"displayName":	"背壓功能                   ",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4045,
+			"displayName":	"背壓段數                   ",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4056,
+			"displayName":	"背壓一速度                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4067,
+			"displayName":	"背壓二速度                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4078,
+			"displayName":	"背壓三速度                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4089,
+			"displayName":	"背壓完速度                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4100,
+			"displayName":	"背壓一壓力                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4111,
+			"displayName":	"背壓二壓力                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4122,
+			"displayName":	"背壓三壓力                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4133,
+			"displayName":	"背壓完壓力                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4144,
+			"displayName":	"加料(無背壓)壓力                   ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4155,
+			"displayName":	"背壓一位置                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4166,
+			"displayName":	"背壓二位置                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4177,
+			"displayName":	"背壓三位置                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4188,
+			"displayName":	"背壓完位置                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4199,
+			"displayName":	"前鬆退速度                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4210,
+			"displayName":	"前鬆退壓力                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4221,
+			"displayName":	"前鬆退位置                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4232,
+			"displayName":	"鬆退模式                  ",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4243,
+			"displayName":	"後鬆退模式                  ",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4254,
+			"displayName":	"後鬆退速度                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4265,
+			"displayName":	"後鬆退壓力                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4276,
+			"displayName":	"後鬆退位置                 ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4287,
+			"displayName":	"品管關模時間實際值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4298,
+			"displayName":	"品管關模時間設定值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4309,
+			"displayName":	"品管關模時間公差值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4320,
+			"displayName":	"品管射膠時間實際值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4331,
+			"displayName":	"品管射膠時間設定值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4342,
+			"displayName":	"品管射膠時間公差值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4353,
+			"displayName":	"品管加料時間實際值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4364,
+			"displayName":	"品管加料時間設定值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4375,
+			"displayName":	"品管加料時間公差值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4386,
+			"displayName":	"品管開模時間實際值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4397,
+			"displayName":	"品管開模時間設定值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4408,
+			"displayName":	"品管開模時間公差值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4419,
+			"displayName":	"品管頂針時間實際值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4430,
+			"displayName":	"品管頂針時間設定值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4441,
+			"displayName":	"品管頂針時間公差值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4452,
+			"displayName":	"品管週期時間實際值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4463,
+			"displayName":	"品管週期時間設定值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4474,
+			"displayName":	"品管週期時間公差值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4485,
+			"displayName":	"品管螺桿轉速實際值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4496,
+			"displayName":	"品管螺桿轉速設定值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4507,
+			"displayName":	"品管螺桿轉速公差值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4518,
+			"displayName":	"品管總射膠時間實際值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4529,
+			"displayName":	"品管總射膠時間設定值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4540,
+			"displayName":	"品管總射膠時間公差值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4551,
+			"displayName":	"品管開模終點實際值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4562,
+			"displayName":	"品管開模終點設定值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4573,
+			"displayName":	"品管開模終點公差值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4584,
+			"displayName":	"品管射膠起點實際值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4595,
+			"displayName":	"品管射膠起點設定值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4606,
+			"displayName":	"品管射膠起點公差值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4617,
+			"displayName":	"品管射膠終點實際值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4628,
+			"displayName":	"品管射膠終點設定值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4639,
+			"displayName":	"品管射膠終點公差值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4650,
+			"displayName":	"品管切保壓位置實際值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4661,
+			"displayName":	"品管切保壓位置設定值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4672,
+			"displayName":	"品管切保壓位置公差值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4683,
+			"displayName":	"品管保壓終點實際值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4694,
+			"displayName":	"品管保壓終點設定值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4705,
+			"displayName":	"品管保壓終點公差值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4716,
+			"displayName":	"品管加料起點實際值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4727,
+			"displayName":	"品管加料起點設定值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4738,
+			"displayName":	"品管加料起點公差值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4749,
+			"displayName":	"品管加料終點實際值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4760,
+			"displayName":	"品管加料終點設定值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4771,
+			"displayName":	"品管加料終點公差值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4782,
+			"displayName":	"品管鎖模力實際值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4793,
+			"displayName":	"品管鎖模力設定值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4804,
+			"displayName":	"品管鎖模力公差值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4815,
+			"displayName":	"品管最大射壓實際值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4826,
+			"displayName":	"品管最大射壓設定值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4837,
+			"displayName":	"品管最大射壓公差值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4848,
+			"displayName":	"品管切保壓壓力實際值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4859,
+			"displayName":	"品管切保壓壓力設定值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4870,
+			"displayName":	"品管切保壓壓力公差值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4881,
+			"displayName":	"品管最大保壓實際值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4892,
+			"displayName":	"品管最大保壓設定值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4903,
+			"displayName":	"品管最大保壓公差值",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4914,
+			"displayName":	"預計生產總數設定               ",
+			"description":	"Mirle Object Value",
+			"dataType":	6,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4925,
+			"displayName":	"目前實際生產總數               ",
+			"description":	"Mirle Object Value",
+			"dataType":	6,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4936,
+			"displayName":	"預計生產總數完成率               ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4947,
+			"displayName":	"良品率               ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4958,
+			"displayName":	"不良率             ",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4969,
+			"displayName":	"機台生產累計總模數           ",
+			"description":	"Mirle Object Value",
+			"dataType":	6,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4980,
+			"displayName":	"機台生產累計總數      ",
+			"description":	"Mirle Object Value",
+			"dataType":	6,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	4991,
+			"displayName":	"產品編號1、2",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	5002,
+			"displayName":	"產品編號3、4",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	5013,
+			"displayName":	"產品編號5、6",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	5024,
+			"displayName":	"產品編號7、8",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	5035,
+			"displayName":	"產品編號9、10",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	5046,
+			"displayName":	"產品編號11、12",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	5057,
+			"displayName":	"產品編號13、14",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	5068,
+			"displayName":	"產品編號15、16",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	5079,
+			"displayName":	"產品編號17、18",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	5090,
+			"displayName":	"產品編號19、20",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	5101,
+			"displayName":	"塑料型號1、2",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	5112,
+			"displayName":	"塑料型號3、4",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	5123,
+			"displayName":	"塑料型號5、6",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	5134,
+			"displayName":	"塑料型號7、8",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	5145,
+			"displayName":	"塑料型號9、10",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	5156,
+			"displayName":	"塑料型號11、12",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	5167,
+			"displayName":	"塑料型號13、14",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	5178,
+			"displayName":	"塑料型號15、16",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	5189,
+			"displayName":	"塑料型號17、18",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	5200,
+			"displayName":	"塑料型號19、20",
+			"description":	"Mirle Object Value",
+			"dataType":	11,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	5211,
+			"displayName":	"模具生產累計總數",
+			"description":	"Mirle Object Value",
+			"dataType":	6,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	5222,
+			"displayName":	"自動生產時間小時",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	5233,
+			"displayName":	"自動生產時間分鐘",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	5244,
+			"displayName":	"機台開機時間小時",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	5255,
+			"displayName":	"機台開機時間分鐘",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}, {
+			"nsIndex":	4,
+			"identifierType":	0,
+			"identifier":	5266,
+			"displayName":	"前一週期時間",
+			"description":	"Mirle Object Value",
+			"dataType":	10,
+			"dataSet":	["0", "1"],
+			"accessLevel":	1
+		}]
+}
